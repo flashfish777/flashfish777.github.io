@@ -13,14 +13,14 @@
       
       <categories>
           
-          <category> 面试 </category>
+          <category> 面经 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 面试 </tag>
+            <tag> 面经 </tag>
             
             <tag> 微派 </tag>
             
@@ -42,41 +42,16 @@
           
           <category> 项目 </category>
           
+          <category> 非游戏 </category>
+          
       </categories>
       
       
         <tags>
-            
-            <tag> 项目 </tag>
             
             <tag> 面向对象 </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>C#与MySQL数据库</title>
-      <link href="/posts/b6747aa.html"/>
-      <url>/posts/b6747aa.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> C# </category>
-          
-          <category> 数据库 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> C# </tag>
+            <tag> Java </tag>
             
             <tag> MySQL </tag>
             
@@ -94,10 +69,18 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 推荐 </category>
+          
+      </categories>
+      
       
         <tags>
             
             <tag> VSCode </tag>
+            
+            <tag> Rider </tag>
             
         </tags>
       
@@ -117,6 +100,8 @@
           
           <category> 项目 </category>
           
+          <category> 游戏 </category>
+          
           <category> GameJam </category>
           
       </categories>
@@ -126,9 +111,11 @@
             
             <tag> GameJam </tag>
             
-            <tag> Remix </tag>
+            <tag> 游戏开发 </tag>
             
-            <tag> 项目 </tag>
+            <tag> 开发历程 </tag>
+            
+            <tag> Crazy Web GameJam </tag>
             
         </tags>
       
@@ -146,14 +133,22 @@
       
       <categories>
           
-          <category> Unity插件 </category>
+          <category> 推荐 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 游戏开发 </tag>
+            
             <tag> Unity插件 </tag>
+            
+            <tag> Unity </tag>
+            
+            <tag> Shader </tag>
+            
+            <tag> QuikQutline </tag>
             
         </tags>
       
@@ -171,14 +166,24 @@
       
       <categories>
           
-          <category> Unity插件 </category>
+          <category> 推荐 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 游戏开发 </tag>
+            
             <tag> Unity插件 </tag>
+            
+            <tag> Unity </tag>
+            
+            <tag> Localization </tag>
+            
+            <tag> 本地化 </tag>
+            
+            <tag> 语言 </tag>
             
         </tags>
       
@@ -196,14 +201,22 @@
       
       <categories>
           
-          <category> Unity插件 </category>
+          <category> 推荐 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 游戏开发 </tag>
+            
             <tag> Unity插件 </tag>
+            
+            <tag> Unity </tag>
+            
+            <tag> DOTween </tag>
+            
+            <tag> 动画 </tag>
             
         </tags>
       
@@ -223,6 +236,8 @@
           
           <category> 项目 </category>
           
+          <category> 游戏 </category>
+          
           <category> GameJam </category>
           
       </categories>
@@ -232,9 +247,13 @@
             
             <tag> GameJam </tag>
             
-            <tag> 项目 </tag>
+            <tag> 游戏开发 </tag>
             
-            <tag> Light </tag>
+            <tag> 开发历程 </tag>
+            
+            <tag> Unity </tag>
+            
+            <tag> TapTap聚光灯GameJam </tag>
             
         </tags>
       
@@ -252,22 +271,24 @@
       
       <categories>
           
-          <category> Unity </category>
-          
-          <category> 开发日记 </category>
+          <category> 知识分享 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 游戏开发 </tag>
+            
             <tag> C# </tag>
             
             <tag> Unity </tag>
             
-            <tag> UI </tag>
+            <tag> 面向对象 </tag>
             
             <tag> 设计模式 </tag>
+            
+            <tag> OOP </tag>
             
         </tags>
       
@@ -280,23 +301,29 @@
       <link href="/posts/5a49393d.html"/>
       <url>/posts/5a49393d.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="一个Unity新手的3D贪吃蛇开发历程"><a href="#一个Unity新手的3D贪吃蛇开发历程" class="headerlink" title="一个Unity新手的3D贪吃蛇开发历程"></a>一个Unity新手的3D贪吃蛇开发历程</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>刚好放寒假的时候，在大致进行了系统的Unity与C#的学习之后，我觉得我是时候做出一款游戏出来了。尽管之前跟随网上的教程完成过一两个简单的小项目，可那时候毕竟只能算是照猫画虎，学习了这么多知识之后也有必要通过一些项目来把这些知识巩固在脑海中，所以我就打算从头开始，自己做一款小游戏，不管是怎样的，至少先做出来再说吧！<br>我打算从相对简单的开始，不能急于求成。于是我打算做一种3D的贪吃蛇小游戏。因为我认为我这个项目的目的不是做的有多精美，多好玩，而是加强我的基本程序能力、熟练的使用unity编辑器的基础功能，在我需要的时候我能自己学会用什么、点什么、在哪里写些什么，而不是像最初稀里糊涂的跟着教程有样学样。<br>我打算在一个大场景中生成各种障碍物和食物，让贪吃蛇在场景中吃到食物来增加身体长度。在经过一段时间的研究与学习，经历了很多困难的解决与想法的改变后，最终我如愿完成了<strong>LecSnake（我们是卷王）-3D贪吃蛇小游戏</strong>。<br>在这个项目中，我不再是教程的模仿者，而是真正成为了系统的设计者。每一个技术决策背后，都是对Unity编辑器的深入探索和C#编程思维的锤炼。</p><p><img src="https://s2.loli.net/2025/03/19/dYlSAVHUgkP58vM.png" alt="Login"></p><p><img src="https://s2.loli.net/2025/03/21/eX8nhkplUNzGPWi.png" alt="游戏截图"></p><p><a href="https://github.com/flashfish777/LecSnake">项目链接</a></p><hr><h2 id="开发历程"><a href="#开发历程" class="headerlink" title="开发历程"></a>开发历程</h2><h3 id="🐍-贪吃蛇的进化"><a href="#🐍-贪吃蛇的进化" class="headerlink" title="🐍 贪吃蛇的进化"></a>🐍 贪吃蛇的进化</h3><p><strong>第一阶段：物理系统</strong>  </p><p>理想：</p><ul><li>用Rigidbody实现头部运动控制</li><li>通过Joint连接身体部件</li><li>期待呈现自然的物理摆动效果<br>现实：</li><li>刚体的摩擦力和重力导致速度不稳定</li><li>多节身体相互碰撞产生”卡顿链式反应”</li><li>惯性作用使转弯时身体完全失控</li></ul><p>一开始，我用刚体圆球来代表蛇的身体，用<code>WASD</code>控制蛇头的前后左右移动，然后用<code>Joint</code>组件来连接身体与身体，需要增加长度时，就在蛇尾部生成一个body球，然后连接到最后。我本想以此模拟顺滑的物理效果，可我发现并非如此。我发现刚体是有摩擦力和重力的，随着身体越来越多移动会越来越困难，这导致速度不平均。于是我花了很长时间磨合摩擦力与重力的数值，想通过调节数值来解决这个问题，最后我发现即使不使用重力不使用摩擦力都不能解决这个问题，于是我又将蛇头的移动方式从按下按键施加力变为简单的每帧改变坐标，我甚至锁定了所有身体的y轴使它们不再接触地面，但即使解决了速度问题依然还有其他问题，例如身体总会不规则的旋转，用线连接的身体也会有惯性导致蛇的身体乱动，而且最终也并没有很好的实现转弯时平滑的物理效果。所以我放弃了使用刚体来模拟物理效果，再次经过了一段时间的探索后，我找到了足够实现我需求的理想方法：</p><p><strong>第二阶段：返璞归真的坐标追踪法</strong>  </p><p>经过两周的反复试验，终于找到优雅的解决方案：</p><ul><li>改用立方体消除不规则旋转</li><li>创建历史坐标队列记录头部轨迹</li><li>身体部件按固定间隔跟随对应坐标</li></ul><p>我将球形身体改为方形，这样连起来更美观且能解决很多问题，然后在蛇的移动上，我使用了一个<code>historyPosition</code>列表存储蛇头走过的位置，然后将身体的坐标逐帧改为对应的坐标，而蛇头则是自动向前，由<code>AD</code>键控制左转和右转，空格加速。</p><figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="comment">// 向前移动</span></span><br><span class="line">    transform.position += transform.forward * moveSpeed * Time.deltaTime;</span><br><span class="line">    <span class="comment">// 加速</span></span><br><span class="line">    <span class="keyword">if</span> (Input.GetKey(KeyCode.Space))</span><br><span class="line">    &#123;</span><br><span class="line">        moveSpeed = <span class="number">40</span>;</span><br><span class="line">        bodySpeed = <span class="number">40</span>;</span><br><span class="line">fastCount += Time.deltaTime;</span><br><span class="line"><span class="keyword">if</span> (fastCount &gt; <span class="number">2</span>)</span><br><span class="line">        &#123;</span><br><span class="line"><span class="keyword">if</span> (score &gt; <span class="number">0</span>) score--;</span><br><span class="line">            fastCount = <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">else</span></span><br><span class="line">    &#123;</span><br><span class="line">        moveSpeed = <span class="number">20</span>;</span><br><span class="line">        bodySpeed = <span class="number">20</span>;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 方向操控</span></span><br><span class="line"><span class="built_in">float</span> steerDirection = Input.GetAxis(<span class="string">&quot;Horizontal&quot;</span>);</span><br><span class="line">    transform.Rotate(Vector3.up * steerDirection * steerSpeed * Time.deltaTime);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 保存位置移动史</span></span><br><span class="line">positionHistory.Insert(<span class="number">0</span>, transform.position);</span><br><span class="line">    <span class="keyword">while</span> (positionHistory.Count &gt; bodyList.Count * Gap)</span><br><span class="line">        positionHistory.RemoveAt(positionHistory.Count - <span class="number">1</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 移动身体</span></span><br><span class="line">    <span class="built_in">int</span> index = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">foreach</span> (<span class="keyword">var</span> body <span class="keyword">in</span> bodyList)</span><br><span class="line">    &#123;</span><br><span class="line">        Vector3 point = positionHistory[Mathf.Clamp(index * Gap, <span class="number">0</span>, positionHistory.Count - <span class="number">1</span>)];</span><br><span class="line"></span><br><span class="line">        <span class="comment">// 让贪吃蛇的身体沿头部轨迹运动</span></span><br><span class="line">        Vector3 moveDirection = point - body.transform.position;</span><br><span class="line">        body.transform.position += moveDirection * bodySpeed * Time.deltaTime;</span><br><span class="line"></span><br><span class="line">        <span class="comment">// 让身体朝向头部移动的方向</span></span><br><span class="line">        body.transform.LookAt(point);</span><br><span class="line"></span><br><span class="line">index++;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>这个方案不仅实现了顺滑的蛇体运动，更让我深刻理解了<strong>数据驱动</strong>的设计哲学。当放弃对物理引擎的执念后，问题反而迎刃而解。<br>这样就实现了贪吃蛇的平滑移动了。这是我认为最耗脑筋的一个点，也是用了最长时间的一个点。</p><hr><h3 id="🍎-食物与障碍物"><a href="#🍎-食物与障碍物" class="headerlink" title="🍎 食物与障碍物"></a>🍎 食物与障碍物</h3><p>老实说这个地方没什么好讲的，当时做的时候也是简单完成，唯一值得思考的点就是在随机生成的时候要考虑到重叠生成，比如一个食物生成到一个树（障碍物）里面去了，于是我还思考了一下，考虑将场景分成很多格子来生成物体，随机格子的位置即可：</p><figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">int</span> num = <span class="number">0</span>;</span><br><span class="line"><span class="keyword">while</span> (num &lt; <span class="number">1000</span>)</span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">int</span> x = Random.Range(<span class="number">1</span>, <span class="number">32</span>);</span><br><span class="line">    <span class="built_in">int</span> z = Random.Range(<span class="number">1</span>, <span class="number">32</span>);</span><br><span class="line">    Quaternion spawnRotation = Quaternion.Euler(<span class="number">0</span>, Random.Range(<span class="number">0</span>, <span class="number">360</span>), <span class="number">0</span>);</span><br><span class="line">  </span><br><span class="line">    <span class="keyword">if</span> (!map[z, x])</span><br><span class="line">    &#123;</span><br><span class="line">        map[z, x] = <span class="literal">true</span>;</span><br><span class="line"></span><br><span class="line">        x = x &lt;= <span class="number">16</span> ? ((x - <span class="number">17</span>) * <span class="number">2</span> + <span class="number">1</span>) : ((x - <span class="number">16</span>) * <span class="number">2</span> - <span class="number">1</span>);</span><br><span class="line">        z = z &lt;= <span class="number">16</span> ? ((<span class="number">17</span> - z) * <span class="number">2</span> - <span class="number">1</span>) : ((<span class="number">16</span> - z) * <span class="number">2</span> + <span class="number">1</span>);</span><br><span class="line"></span><br><span class="line">        Vector3 spawnPosition = <span class="keyword">new</span> Vector3(x * <span class="number">25</span>, <span class="number">0.5f</span>, z * <span class="number">25</span>);</span><br><span class="line">        Instantiate(Treelist[<span class="number">0</span>], spawnPosition, spawnRotation);</span><br><span class="line"></span><br><span class="line">        num++;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>应用后才发现按这样生成出来的位置都太有规律性了，有时候太整齐不是什么好事。如果贪吃蛇只能四向移动的话这样的生成方法明显更优。</p><p>在贪吃蛇碰到食物或障碍物后会将该物体销毁并执行对应的加分减分操作，然后再在场景一个一个随机位置生成一个对应物体使之不会越来越少。但后来我发现，其实可以在碰到物体时直接随机更改一下物体的坐标就可以了，而不用销毁再生成，省去了不必要的步骤与消费。</p><hr><h3 id="🗺️-小地图的实现"><a href="#🗺️-小地图的实现" class="headerlink" title="🗺️ 小地图的实现"></a>🗺️ 小地图的实现</h3><p>之后我想到在左上角放一个缩略地图的功能，可以更方便玩家查看附近的情况。具体步骤在之前的文章介绍过：<br> <a class="btn-beautify green larger" href="/posts/bf08e6b6.html"   title="Unity日记：小地图"><i class="far fa-hand-point-right"></i><span>Unity日记：小地图</span></a></p><p>这个功能的实现，让我对Unity的多摄像机协作有了更深理解。</p><hr><h3 id="⚙️-暂停与设置"><a href="#⚙️-暂停与设置" class="headerlink" title="⚙️ 暂停与设置"></a>⚙️ 暂停与设置</h3><p>我添加了暂停按钮，通过<code>Time.timeScale</code>调整游戏的时间状态，并添加了一些选项设置。通过调节摄像机与音频给玩家带来不同的体验。<br><img src="https://s2.loli.net/2025/03/21/VReJ3ZzfDkbKmoC.png" alt="暂停的设置界面"></p><p>这个模块的开发，让我体会到<strong>系统隔离</strong>的重要性。</p><hr><h3 id="🔄-主界面场景切换"><a href="#🔄-主界面场景切换" class="headerlink" title="🔄 主界面场景切换"></a>🔄 主界面场景切换</h3><p>做到这里主要的功能基本就完成了，最后我想给游戏添加一个开始界面与背景，于是便在游戏启动时默认播放一个描述背景故事的视频，点击可以跳过，随后便进入开始界面。<br><img src="https://s2.loli.net/2025/03/19/dYlSAVHUgkP58vM.png" alt="开始界面"></p><p>我将它放在了一个独立的场景里，在场景中房里几颗树木烘托氛围。当玩家点击开始后就会跳转到游戏的主场景了。关于场景切换，在之前的文章亦有记载：</p><a class="btn-beautify red larger" href="/posts/fdbe57b8.html#%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD"   title="Unity日记：场景切换与并发编程-异步加载"><i class="far fa-hand-point-right"></i><span>Unity日记：场景切换与并发编程-异步加载</span></a><p>在这个过程中，我真正理解了游戏状态管理的艺术。</p><hr><h3 id="💾-存档系统"><a href="#💾-存档系统" class="headerlink" title="💾 存档系统"></a>💾 存档系统</h3><p>在最后的最后，一款能让人玩下去的游戏一定离不开存档，于是我了解并学习了有关数据持久化的相关知识，并为我的贪吃蛇游戏添加了存档。存档实现的详情见以下文章：</p><a class="btn-beautify yellow larger" href="/posts/posts/a985624f.html#%E7%A4%BA%E4%BE%8B-1"   title="Unity日记：存档系统-JSON-示例"><i class="far fa-hand-point-right"></i><span>Unity日记：存档系统-JSON-示例</span></a><p>我存储了食物和障碍物的坐标列表、<code>historyPosition</code>列表以及得分等数据简单实现了贪吃蛇游戏的存档系统。</p><p>2024年12月续：值得一提的是，我在面试微派的时候，面试官曾问我有没有想过不存食物和障碍物的坐标且仍能实现存档，当时我还云里雾里，知道面试官提了随机数种子的概念，我才想到可以用相同的随机数种子，生成的随机坐标就是和上一次一样的坐标了，障碍物和食物也会在原先的位置，这样只需要存以下种子，就依然可以实现存档。妙哉！</p><hr><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>这个项目最宝贵的收获，是让我建立起<strong>独立解决问题</strong>的自信。当看到自己构思的系统通过自己的努力真正运转起来时，那种喜悦远超复制十个教程项目。期待在下一个项目中挑战更复杂的游戏程序设计，相信我的程序水平会越来越成熟！</p>]]></content>
       
       
       <categories>
           
           <category> 项目 </category>
           
+          <category> 游戏 </category>
+          
+          <category> Unity </category>
+          
       </categories>
       
       
         <tags>
             
-            <tag> 项目 </tag>
+            <tag> 游戏开发 </tag>
+            
+            <tag> 开发历程 </tag>
+            
+            <tag> C# </tag>
             
             <tag> Unity </tag>
-            
-            <tag> 3d </tag>
             
         </tags>
       
@@ -314,9 +341,7 @@
       
       <categories>
           
-          <category> Unity </category>
-          
-          <category> Unity基础 </category>
+          <category> 笔记 </category>
           
       </categories>
       
@@ -341,20 +366,26 @@
       
       <categories>
           
-          <category> Unity </category>
-          
-          <category> 开发日记 </category>
+          <category> 知识分享 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 游戏开发 </tag>
+            
             <tag> C# </tag>
             
             <tag> Unity </tag>
             
-            <tag> JSON存档 </tag>
+            <tag> Unity开发日记 </tag>
+            
+            <tag> 数据持久化 </tag>
+            
+            <tag> PlayerPrefs </tag>
+            
+            <tag> JSON </tag>
             
         </tags>
       
@@ -372,20 +403,24 @@
       
       <categories>
           
-          <category> Unity </category>
-          
-          <category> 开发日记 </category>
+          <category> 知识分享 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 游戏开发 </tag>
+            
             <tag> C# </tag>
             
             <tag> Unity </tag>
             
+            <tag> Unity开发日记 </tag>
+            
             <tag> 并发编程 </tag>
+            
+            <tag> 场景切换 </tag>
             
         </tags>
       
@@ -403,18 +438,24 @@
       
       <categories>
           
-          <category> Unity </category>
-          
-          <category> 开发日记 </category>
+          <category> 知识分享 </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 游戏开发 </tag>
+            
             <tag> C# </tag>
             
             <tag> Unity </tag>
+            
+            <tag> Unity开发日记 </tag>
+            
+            <tag> Render Textrue </tag>
+            
+            <tag> 小地图 </tag>
             
         </tags>
       
@@ -434,12 +475,14 @@
           
           <category> 项目 </category>
           
+          <category> 游戏 </category>
+          
+          <category> 非Unity </category>
+          
       </categories>
       
       
         <tags>
-            
-            <tag> 项目 </tag>
             
             <tag> 游戏开发 </tag>
             
@@ -458,6 +501,12 @@
       
         <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在学习编程的过程中，我有幸邂逅并深入使用了多款编译器与集成开发环境（IDE），如经典的<code>Dev-C++</code>，功能强大的<code>Visual Studio（VS）</code>，以及专为C&#x2F;C++和Python等语言设计的<code>CLion</code>，它们各自以其独特的魅力，在不同阶段陪伴并助力了我的学习与成长。</p><div class="note info no-icon flat"><p><strong>Dev-C++</strong></p></div><p>Dev-C++轻量级且易上手，是我初识编程时用的第一款编译器，让我能够快速上手C&#x2F;C++，打好基础。然而，随着学习的深入与项目规模的扩大和需求的复杂化，我开始意识到其在项目管理、代码补全及调试功能上的局限性。</p><div class="note primary no-icon flat"><p><strong>Visual Studio（VS）</strong></p></div><p>之后我接触到了VS2022这款IDE，最初相对Dev，我被它的高级感以及全面的开发能力、强大的调试工具和丰富的插件生态系统吸引。在VS的怀抱中，我感受到了前所未有的开发效率与便捷，虽然我学识尚浅，但我了解到无论是在Web开发、桌面应用还是游戏开发，VS都能提供强大的支持。但与此同时，VS的庞大体积与内存和偶尔的复杂配置也让我在追求轻量级与灵活性的项目中感到些许不便。</p><div class="note success no-icon flat"><p><strong>CLion</strong></p></div><p>CLion则以其对C&#x2F;C++的深入理解和优化，为我提供了更为专业和高效的C&#x2F;C++开发体验。智能的代码分析、快速重构工具以及无缝的集成调试，都让C&#x2F;C++项目的开发变得得心应手。然而，对于多语言支持或是特定框架的快速搭建，CLion或许不是最全面的选择。</p><p><strong>正是在这样的背景下，我遇到了<mark class="hl-label blue">VSCode</mark> 。VSCode以其轻量级、跨平台、高度可扩展的特点，迅速成为了我的新宠。它不仅能够提供流畅的代码编辑体验，还通过丰富的插件生态，支持几乎所有主流编程语言及框架，从前端到后端，从Web到移动应用，无所不能。更重要的是，VSCode的启动迅速、界面简洁，让我在快节奏的编程生活中能够保持高效与专注。</strong></p><p>因此，今天我想和大家分享一些我在使用VSCode过程中发现的好用插件，这些插件不仅极大地提升了我的开发效率，也让我对VSCode的热爱更加深厚。接下来，就让我们一起探索这些宝藏插件吧！</p><hr><h1 id="功能篇"><a href="#功能篇" class="headerlink" title="功能篇"></a>功能篇</h1><h2 id="Prettier-Code-formatter"><a href="#Prettier-Code-formatter" class="headerlink" title="Prettier - Code formatter"></a>Prettier - Code formatter</h2><p><img src="https://s2.loli.net/2024/08/11/hG4BqQYTbAXr9xo.png" alt="Prettier - Code formatter"></p><p><code>Prettier - Code formatter</code> 是一款用于代码格式化的插件，‌它支持多种编程语言的代码格式化，‌旨在确保代码风格的一致性。‌Prettier 提供了一种简单的方法来自动调整代码格式，‌使其符合一组预定义的规则，‌从而帮助开发者提高代码的可读性和一致性。‌以下是关于 Prettier - Code formatter 插件的一些详细介绍：‌</p><ul><li><p><strong>配置方式：‌</strong>Prettier 的配置可以通过多种方式进行，‌包括在项目的根目录创建 <code>.prettierrc</code> 文件（‌支持 YML、‌JSON 等格式）‌，‌创建 <code>.prettier.config.js</code> 文件，‌或者在 <code>package.json</code> 文件中添加 Prettier 配置属性。‌这些配置文件允许用户自定义 Prettier 的规则，‌如缩进大小、‌是否使用制表符、‌引号风格等。‌</p></li><li><p><strong>集成使用：‌</strong>Prettier 可以与多种编辑器和构建工具集成，‌包括 Visual Studio Code（‌VSCode）‌、‌GitHub Actions 等。‌在 VSCode 中，‌Prettier 插件可以在保存文件时自动格式化代码，‌确保代码风格的一致性。‌此外，‌Prettier 还可以与 ESLint 集成，‌以确保代码不仅格式正确，‌而且符合一定的编码规范。</p></li><li><p><strong>角色分工：‌</strong>Prettier 主要负责代码的格式化工作，‌而 ESLint 则专注于代码质量和风格的检查。‌通过这种结合使用，‌开发者可以确保代码既没有语法错误，‌又具有一致的格式。‌</p></li><li><p><strong>配置选项：‌</strong>Prettier 提供了丰富的配置选项，‌允许用户根据自己的需求调整代码格式化的具体规则。‌例如，‌可以设置打印宽度、‌制表符宽度、‌是否使用单引号或双引号等。‌</p></li></ul><p>  总的来说，‌Prettier - Code formatter 是一个强大的工具，‌它通过自动化代码格式化过程，‌帮助开发者提高代码的可读性和一致性，‌是现代软件开发中不可或缺的一部分。‌</p><p><a href="https://github.com/prettier/prettier-vscode">-&gt; GitHub仓库</a></p><h2 id="Path-Intellisense"><a href="#Path-Intellisense" class="headerlink" title="Path Intellisense"></a>Path Intellisense</h2><p><img src="https://s2.loli.net/2024/08/11/s9aeyhHjiknbV4g.png" alt="Path Intellisense"></p><p><code>Path Intellisense</code>是一个简单但极其实用的VSCode扩展，‌它能够智能感知并自动补全你在代码中引用的文件路径。‌这个扩展通过实时提供匹配的路径建议，‌大大提高了编码效率。‌以下是该扩展的主要特点和功能：‌</p><ul><li><strong>自动补全：‌</strong>一旦你开始键入文件或目录名称，‌插件会实时提供匹配的路径建议，‌帮助你快速找到目标文件。‌</li><li><strong>忽略配置：‌</strong>你可以通过设置禁用TypeScript和JavaScript的内置路径提示，‌以便Path Intellisense成为默认的补全源。‌</li><li><strong>Node包智能感知：‌</strong>配合<code>npm intellisense</code>插件，‌可以实现对Node.js包的智能补全。‌</li><li><strong>应用场景：‌</strong>适用于任何需要引入文件的场景，‌如导入模块、‌读取配置文件等，‌特别适用于大型项目，‌其中有很多层级目录和众多文件。‌</li><li><strong>项目特点：‌</strong>无论是在当前目录还是其他目录，‌Path Intellisense都能即时提供准确的路径建议。‌支持自定义设置，‌如是否显示隐藏文件、‌是否添加文件扩展名，‌以及自动触发下一个建议等功能。‌此外，‌它还尊重<code>tsconfig.json</code>配置，‌特别是<code>baseUrl</code>选项，‌无需重复定义。‌还允许自定义路径映射，‌方便使用绝对路径或者与<code>webpack</code>的r<code>esolve</code>选项搭配使用。‌<br>安装与使用方面，‌你可以在VSCode命令面板中选择“Install Extension”，‌搜索Path Intellisense进行安装。‌然后在设置中添加相关配置，‌即可启用插件。‌通过GIF图可以看到，‌在编写代码时，‌只需敲击几下键盘，‌Path Intellisense就会展示出相应的文件路径，‌让你轻松完成引用。‌</li></ul><p><a href="https://github.com/ChristianKohler/PathIntellisense">-&gt;GitHub仓库</a></p><h2 id="Image-preview"><a href="#Image-preview" class="headerlink" title="Image preview"></a>Image preview</h2><p><img src="https://s2.loli.net/2024/08/11/27jec9roxbSqLls.png" alt="Image preview"></p><p><code>Image Preview</code>是一个专为Visual Studio Code设计的高效扩展，‌它允许用户在代码文件中直接预览图片，‌无需离开当前的工作流，‌从而极大地提升了工作效率。‌这个扩展在代码行号旁显示图像预览，‌并且在鼠标悬停时也会出现预览，‌提供了实时预览功能，‌能够实时检测并解析代码中的图像路径，‌无论它们是相对路径还是绝对URL。‌Image Preview支持各种文件类型，‌如CSS、‌HTML、‌Markdown等，‌甚至可以识别数据URI。‌它还支持本地文件和网络URL，‌提供了高度自定义性，‌允许用户通过配置项调整预览样式，‌比如设置最大宽度和高度。‌</p><p><img src="https://s2.loli.net/2024/08/11/6P1T43txWzgX9qV.png" alt="示例"></p><p>Image Preview非常适合前端开发、‌Markdown写作以及图片资源管理。‌在编写CSS或HTML时，‌可以立即查看所引用图片的效果，‌而不需要频繁切换到浏览器预览。‌在编辑Markdown文档时，‌可以快速验证插入的图片是否正确展示。‌对于大型项目，‌它可以方便地查看代码中的所有图片，‌避免了手动查找的问题。‌Image Preview的安装过程简单快捷，‌只需通过Visual Studio Code扩展市场搜索并安装即可。‌无论用户是新手还是经验丰富的开发者，‌这个扩展都会成为日常工作中不可或缺的工具。‌</p><p>此外，‌Image Preview还具有智能更新的功能，‌能够自动检测代码变化，‌实时更新预览，‌确保信息始终同步。‌它的简洁直观的预览效果和全面支持的特性，‌以及高度定制化和智能更新的功能，‌使得Image Preview成为提高编码体验和开发生产效率的有力工具。‌</p><p><a href="https://github.com/kisstkondoros/gutter-preview">-&gt;GitHub仓库</a></p><h2 id="Error-Lens"><a href="#Error-Lens" class="headerlink" title="Error Lens"></a>Error Lens</h2><p><img src="https://s2.loli.net/2024/08/11/FOiKZRQ2tpNxE9U.png" alt="Error Lens"></p><p><code>Error Lens</code> 是一个非常有用的 Visual Studio Code 扩展，‌它主要改进了错误、‌警告和其他语言诊断的突出显示。‌通过安装这个扩展，‌你可以更直观地看到代码中的问题，‌从而更快地定位和解决错误。‌Error Lens 帮助开发者快速发现代码中的错误，‌直达问题所在，‌提高了代码调试的效率。‌安装完成后，‌需要重启 Visual Studio Code 以使扩展生效。‌此外，‌Error Lens 还提供了键盘快捷方式，‌使得操作更加便捷。‌通过按住 Alt 键，‌可以使用数字键选择和导航指示器，‌进一步提高了使用效率。‌</p><p><a href="https://github.com/kisstkondoros/gutter-preview">-&gt;GitHub仓库</a></p><h2 id="Competitive-Programming-Helper-cph"><a href="#Competitive-Programming-Helper-cph" class="headerlink" title="Competitive Programming Helper (cph)"></a>Competitive Programming Helper (cph)</h2><p><img src="https://s2.loli.net/2024/08/11/AQLCaIXTg1pPSju.png" alt="Competitive Programming Helper (cph)"></p><p><strong>超级好用超级推荐的扩展！特别适合热衷刷题以及算法竞赛的小伙伴！</strong></p><p><code>Competitive Programming Helper (cph)</code>是一个非常实用的扩展工具，‌专门为竞赛编程设计，‌旨在提高编程效率和准确性。‌</p><p>cph的主要功能特点包括：‌</p><ol><li><strong>跨平台支持：‌</strong>兼容多种竞赛平台，‌满足多样化的编程需求。‌</li><li><strong>多语言支持：‌</strong>支持包括C++, C, Rust, Go, Python, Java, JavaScript (Node.js)等多种常见编程语言。‌</li><li><strong>一键操作：‌</strong>通过快捷键（‌如Ctrl+Alt+B）‌可以运行测试用例，‌简化操作流程，‌提高使用便捷性。‌</li><li><strong>可定制化：‌</strong>用户可以根据自己的偏好调整设置，‌甚至参与项目的贡献和开发，‌增加使用的灵活性和个性化。‌</li><li><strong>样例测试：‌</strong>以样例的方式对代码进行测试，‌帮助用户检查代码的正确性。‌</li><li><strong>错误流输出：‌</strong>如果在代码执行过程中出现错误流，‌cph会额外显示错误流信息，‌方便用户进行调试。‌</li></ol><p>用户通过VSCode插件中心安装即可用，简单方便。‌此外，‌cph扩展还提供了一个网页插件，‌可以在刷题时打开要做的题目的页面，‌然后在VSCode中通过点击网页上面的绿色小按钮，‌自动创建文件并将所有的测试用例的输入输出复制粘贴过来，‌用户只需直接编写代码即可。‌编写完之后，‌可以通过一键运行判断对错，‌从而提高刷题效率。‌</p><p><img src="https://s2.loli.net/2024/08/11/7ukJX9GtpLPrE8K.png" alt="cph"></p><p><a href="https://github.com/agrawal-d/cph">-&gt;GitHub仓库</a></p><h2 id="Code-Runner"><a href="#Code-Runner" class="headerlink" title="Code Runner"></a>Code Runner</h2><p><img src="https://s2.loli.net/2024/08/11/p2jAsXHRwJxBdkl.png" alt="Code Runner"></p><p><code>Code Runner</code>扩展是一款强大的Visual Studio Code插件，‌支持运行多种编程语言的代码文件和代码片段。‌</p><p>Code Runner扩展的主要特点包括：‌</p><ul><li><strong>广泛的语言支持：‌</strong>支持包括C、‌C++、‌Java、‌JavaScript、‌PHP、‌Python、‌Ruby、‌Go、‌Lua、‌Groovy、‌PowerShell、‌TypeScript、‌Swift、‌Julia、‌Rust、‌Kotlin、‌Dart、‌Haskell等在内的多种流行编程语言，‌使得这个扩展对于使用多种语言的开发者来说非常有用。‌</li><li><strong>便捷的代码运行：‌</strong>可以直接从编辑器或文件资源管理器中运行代码，‌无需切换到终端或配置复杂的运行环境，‌提高了使用便捷性。‌</li><li><strong>自定义命令执行：‌</strong>允许用户根据需要配置和运行自定义命令，‌为不同的项目和工作流程提供灵活性。‌</li><li><strong>输出控制和展示：‌</strong>直观地在输出窗口中显示代码运行结果，‌方便调试和结果检查。‌</li><li><strong>支持REPL：‌</strong>支持REPL(读取-求值-打印循环)，‌可以提高生产力和效率。‌</li></ul><p>Code Runner扩展的开发者是韩骏，‌他是VS Code中文社区创始人，‌该扩展目前已经有了超过450万的下载量，‌并且在其GitHub项目页面上有详细的文档和社区支持。‌此外，‌Code Runner扩展还支持执行自定义命令，‌使得用户可以根据自己的需求进行灵活配置，‌进一步提高工作效率。‌</p><p><a href="https://github.com/formulahendry/vscode-code-runner">-&gt;GitHub仓库</a></p><hr><h1 id="美化篇"><a href="#美化篇" class="headerlink" title="美化篇"></a>美化篇</h1><h2 id="OSU-Mode-3"><a href="#OSU-Mode-3" class="headerlink" title="OSU Mode 3"></a>OSU Mode 3</h2><p><img src="https://s2.loli.net/2024/08/11/SiIz6Jodx5Fhybl.png" alt="OSU Mode 3"></p><p>这款扩展比较小众，是我在逛b站时偶然发现，启用后，在敲代码时，键入的字母及按键会俏皮的弹出，甚至右上角会显示连击次数，在达到一定次数后还可以弹出图片，这让枯燥的敲代码的过程变得十分有趣，虽然本质上意义不大，但还是挺有意思的。</p><p>我在使用的过程中只开启了按键的弹出，毕竟我认为小小花样可以调情，太花里胡哨就适得其反了。</p><p>字母大小、速度以及连击样式与图片都可以按自己的喜好调节，即使追溯起这个扩展的历史有些混乱，但作为使用者我也没有去考虑那么多……</p><p><a href="https://www.bilibili.com/video/BV1dR4y1n7tW/?spm_id_from=333.999.0.0&vd_source=db9e45951cf3a5f0d2714d5a33520bad">-&gt;bilibili相关教程</a></p><p><a href="https://github.com/ao-shen/vscode-osu-mode">-&gt;GitHub仓库</a></p><h2 id="One-Dark-Pro"><a href="#One-Dark-Pro" class="headerlink" title="One Dark Pro"></a>One Dark Pro</h2><p><img src="https://s2.loli.net/2024/08/11/m1XtvPOpD5ZL9dS.png" alt="One Dark Pro"></p><p><strong>它真的很火，因为它真的很不错！超级赞的素颜主题！</strong></p><p><code>One Dark Pro</code>是一款源自Atom的经典主题，‌现已成为VS Code中最受欢迎的主题插件之一。‌它的设计简洁而深邃，‌无论是在编码还是阅读代码时，‌都能为用户提供舒适的视觉体验。‌One Dark Pro主题基于Material Design理念打造，‌提供多种内置风格，‌包括默认、‌扁平、‌暗黑和复古等，‌以适应不同的工作环境和个人喜好。‌此外，‌它还支持自定义配色，‌用户可以通过设置<code>workbench.colorCustomizations</code>和<code>editor.tokenColorCustomizations</code>来个性化调整颜色方案。‌One Dark Pro的特色功能还包括与Markdown预览的完美融合，‌使得文档编写更加美观易读。‌对于喜欢使用斜体代码的开发者，‌One Dark Pro提供了可配置的斜体模式，‌只需在设置中进行调整即可。‌此外，‌为了提高Python开发者的体验，‌它特别兼容了Pylance扩展，‌允许用户定制语义高亮颜色。‌One Dark Pro适用于各种开发场景，‌无论你是前端工程师、‌后端开发者还是数据科学家，‌都可以在这款主题下高效地工作。‌尤其是在长时间编程的情况下，‌其柔和的色彩搭配有助于减轻视觉疲劳，‌保持良好的专注力。‌</p><p><a href="https://github.com/Binaryify/OneDark-Pro">-&gt;GitHub仓库</a></p><h2 id="Material-Icon-Theme"><a href="#Material-Icon-Theme" class="headerlink" title="Material Icon Theme"></a>Material Icon Theme</h2><p><img src="https://s2.loli.net/2024/08/11/cNhVk4swRKaLbmC.png" alt="Material Icon Theme"></p><p><strong>特别推荐！</strong></p><p><code>Material Icon Theme</code>无疑是一款让VScode界面焕然一新的必备神器，它不仅极大地提升了开发者的视觉体验，还通过细致入微的设计让代码库变得更加整洁、专业。</p><p>首先，Material Icon Theme以其精美的Material Design风格图标著称，这些图标被精心设计并应用到文件和文件夹上，使得开发者在浏览代码库时能够迅速识别出不同类型的文件。这种直观性不仅提高了工作效率，还减少了因寻找文件而浪费的时间。</p><p>其次，该扩展插件采用了SVG图形，这意味着图标在不同分辨率下都能保持极高的清晰度，无论是高分辨率的4K屏幕还是低分辨率的普通显示器，都能呈现出完美的视觉效果。此外，Material Icon Theme还支持自定义颜色、透明度和饱和度，让开发者可以根据个人喜好调整图标样式，打造个性化的开发环境。</p><p>更令人称赞的是，Material Icon Theme提供了一套完善的设置选项，允许开发者定制文件和文件夹的图标关联，甚至可以导入自己的SVG图标，实现真正的个性化图标设计。这种高度的可定制性使得Material Icon Theme能够满足不同开发者的需求，无论你是前端开发者、后端工程师，还是数据科学家，都能找到适合自己的图标配置。</p><p>在实用性方面，Material Icon Theme同样表现出色。它涵盖了多种编程语言、框架和通用文件类型的图标库，满足各类项目需求。同时，该插件还能与版本控制系统如Git紧密集成，显示文件的状态标记，如未跟踪、已修改和已暂存等，帮助开发者更好地管理代码变更。</p><p>最后，Material Icon Theme的易用性也是其一大亮点。通过VScode的命令面板或用户设置，开发者可以轻松完成图标配置，无需复杂的操作。这种简单而强大的功能使得Material Icon Theme成为VScode用户不可或缺的扩展插件之一。</p><p>综上所述，Material Icon Theme以其精美的图标设计、高度的可定制性、实用的功能以及简单易用的特点赢得了广泛的赞誉。如果你希望让你的VScode界面更具美感和实用性，那么这款插件绝对值得一试。</p><p><a href="https://github.com/material-extensions/vscode-material-icon-theme">-&gt;GitHub仓库</a></p><h2 id="background-cover"><a href="#background-cover" class="headerlink" title="background-cover"></a>background-cover</h2><p><img src="https://s2.loli.net/2024/08/11/RSNQoKestDjJiT7.png" alt="background-cover"></p><p><code>background-cover</code>是一个用于Visual Studio Code（‌VSCode）‌的插件，‌它允许用户替换VSCode界面的整体背景，‌而不仅仅是代码区的背景。‌这个插件提供了快捷的图形化配置界面，‌可以满足基本的配置需求，‌如设置图片路径、‌启用&#x2F;停用插件、‌背景透明度等功能。‌用户还可以通过图形界面快捷添加多张图片，‌并实现随机切换功能。‌此外，‌通过修改插件的配置文件，‌用户可以自定义背景样式，‌如调整图片大小、‌位置等，‌以实现个性化的界面背景设置。‌</p><p>该插件的原理是在VSCode加载、‌修改插件设置时，‌自动更新VSCode对应的CSS样式，‌以实现界面背景的更改。‌因此，‌用户可以通过找到插件中配置CSS样式的代码，‌并按照CSS的规则修改对应内容，‌来实现想要的效果。‌这包括调整背景图片的大小、‌位置以及背景颜色的设置等。‌</p><p>总的来说，‌background-cover插件为VSCode用户提供了一个方便的方式来个性化他们的开发环境，‌通过简单的图形化界面或通过修改配置文件来实现复杂的背景设置需求。‌</p><p>注：推荐，但静态壁纸还好，gif动图较占内存</p><p><a href="https://www.bilibili.com/video/BV1bs4y1w7fw/?spm_id_from=333.337.search-card.all.click&vd_source=db9e45951cf3a5f0d2714d5a33520bad">-&gt;bilibili教程</a></p><p><a href="https://github.com/AShujiao/vscode-background-cover">-&gt;GitHub仓库</a></p><hr><h1 id="尾声"><a href="#尾声" class="headerlink" title="尾声"></a>尾声</h1><p>以上就是我精心挑选而且正在使用的一些VSCode插件，它们各具特色，功能强大，无论是在提升编码效率、增强代码质量，还是在美化编辑器、代码方面，都展现出了非凡的价值。我相信，随着你深入使用这些插件，它们将会成为你编程旅程中不可或缺的伙伴，助你在编码的世界里畅游无阻，探索无限可能。</p><p>当然，VSCode的插件生态如此丰富，我推荐的这些只是冰山一角。鼓励大家根据自己的实际需求和偏好，去发现更多适合自己的插件，不断优化自己的开发环境。记住，工欲善其事，必先利其器，一款好的开发工具加上高效的插件辅助，定能让你的编程之路更加顺畅，成就更加辉煌。</p><p>最后，感谢大家的阅读，希望这篇博客能为你带来一些启发和帮助。如果你有任何推荐的VSCode插件或者独特的使用心得，欢迎在评论区留言分享，让我们一起学习，共同进步！期待在未来的编程道路上，与更多的你相遇，共同书写属于我们的精彩篇章。</p><p>—end—</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 推荐 </category>
+          
+      </categories>
       
       
         <tags>
@@ -482,20 +531,24 @@
           
           <category> 项目 </category>
           
+          <category> 游戏 </category>
+          
+          <category> 非Unity </category>
+          
       </categories>
       
       
         <tags>
             
-            <tag> 项目 </tag>
+            <tag> CPP </tag>
+            
+            <tag> 游戏开发 </tag>
             
             <tag> 面向对象 </tag>
             
-            <tag> C++ </tag>
+            <tag> OOP </tag>
             
             <tag> Easyx图形库 </tag>
-            
-            <tag> OOP </tag>
             
         </tags>
       
@@ -513,7 +566,7 @@
       
       <categories>
           
-          <category> C与算法 </category>
+          <category> 笔记 </category>
           
       </categories>
       
@@ -521,6 +574,8 @@
         <tags>
             
             <tag> C </tag>
+            
+            <tag> CPP </tag>
             
         </tags>
       
