@@ -66,7 +66,7 @@
       <link href="/posts/20a54dfa.html"/>
       <url>/posts/20a54dfa.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>众所可能不周知，经过了很长时间的磨合，我已经变成了<mark class="hl-label blue">VSCode</mark> 的形状。<br>这玩意儿用起来实在是太爽，<strong>轻量级</strong>、<strong>速度快</strong>，<strong>插件多到爆炸</strong>，想干什么都能找到对应的工具。而且界面还特别清爽，<strong>主题随便换</strong>，实在不满意甚至能DIY，想怎么折腾就怎么折腾，完全符合我的审美。<br>拿我自己来说，作为一名计算机专业的大学牲，我有无数的专业课需要实操，<code>Cpp</code>、<code>Java</code>、<code>Python</code>、<code>Web前端</code>、<code>数据库</code>、<code>计网</code>，除此之外，我自己还在学习<code>C#</code>。虽然对我来说都不难，但多的让人头大。<br>很多人学<code>Cpp</code>时下载<code>DevC++</code>、<code>Clion</code>，学<code>Java</code>时下载<code>IDEA</code>，学<code>Python</code>时又下<code>PyCharm</code>，学数据库时又下<code>SqlServer</code>、下<code>navicat</code>，学前端时又下<code>WebStorm</code>，想写<code>C#</code>还要下<code>Visual Studio</code>。先不说运行时的效率，就光这些“大块头”就要把存储空间占满了，动辄十几几十个G，没一个省油的灯，况且对于我们学习学校的课程来说，完全用不到这么专业的IDE。<br>我从大学刚刚开始就接触了VSCode，之后也一直在用（中途用过一次VS2022，每次打开都要把我的内存占满，最后直接卸载了）。学习C语言和算法时我安装C&#x2F;Cpp的插件，学Java时我安装Java语言的插件，学数据库时我安装数据库插件用VSCode连接数据库，学习使用git时我用VSCode的终端就能打开bash，还能通过插件连接github储存库进行一键式的版本管理，什么东西都是即安即用，最多配个环境。<br>有同学要问了老师老师你安这么多插件VSCode不也会超负荷的吗？当然不会。VSCode独特的配置文件可以将不同配置文件中的插件与设置隔离起来，哪个文件夹用哪个配置文件，就会加载对应的插件，完全不用担心插件太多太杂。<br><img src="https://s2.loli.net/2025/03/22/ANBg7OIqRJGtoZr.png" alt="配置文件"></p><p>总之，真的十分推荐VSCode！</p><hr><h1 id="功能篇"><a href="#功能篇" class="headerlink" title="功能篇"></a>功能篇</h1><h2 id="any-rule"><a href="#any-rule" class="headerlink" title="any-rule"></a>any-rule</h2><p>你要的“正则”都在这！</p><h2 id="var-translate-en"><a href="#var-translate-en" class="headerlink" title="var-translate-en"></a>var-translate-en</h2><p>中文一键翻译为英文并转换成驼峰命名,提效神器🚀</p><h2 id="Todo-Tree"><a href="#Todo-Tree" class="headerlink" title="Todo Tree"></a>Todo Tree</h2><p>方便的查找与修改TODO、BUG、TEST等指令</p><h2 id="数据库天团："><a href="#数据库天团：" class="headerlink" title="数据库天团："></a>数据库天团：</h2><p><strong>vscode-database &amp; Prettier SQL VSCode &amp; MySQL</strong></p><hr><h1 id="美化篇"><a href="#美化篇" class="headerlink" title="美化篇"></a>美化篇</h1><h2 id="Ayu"><a href="#Ayu" class="headerlink" title="Ayu"></a>Ayu</h2><p>巨好看的深色主题</p><h2 id="Gradient-Theme"><a href="#Gradient-Theme" class="headerlink" title="Gradient Theme"></a>Gradient Theme</h2><p>无敌好看的渐变代码主题</p><h2 id="vscode-teriri-custom-style"><a href="#vscode-teriri-custom-style" class="headerlink" title="vscode-teriri-custom-style"></a>vscode-teriri-custom-style</h2><p>不计效率地为 vscode 添加样式与动画</p><hr><h1 id="JetBrains-Rider"><a href="#JetBrains-Rider" class="headerlink" title="JetBrains Rider"></a>JetBrains Rider</h1><hr><h1 id="尾声"><a href="#尾声" class="headerlink" title="尾声"></a>尾声</h1>]]></content>
       
       
       <categories>
@@ -109,11 +109,11 @@
       
         <tags>
             
-            <tag> GameJam </tag>
-            
             <tag> 游戏开发 </tag>
             
             <tag> 开发历程 </tag>
+            
+            <tag> GameJam </tag>
             
             <tag> Crazy Web GameJam </tag>
             
@@ -140,11 +140,11 @@
       
         <tags>
             
+            <tag> Unity </tag>
+            
             <tag> 游戏开发 </tag>
             
             <tag> Unity插件 </tag>
-            
-            <tag> Unity </tag>
             
             <tag> Shader </tag>
             
@@ -173,11 +173,11 @@
       
         <tags>
             
+            <tag> Unity </tag>
+            
             <tag> 游戏开发 </tag>
             
             <tag> Unity插件 </tag>
-            
-            <tag> Unity </tag>
             
             <tag> Localization </tag>
             
@@ -208,15 +208,50 @@
       
         <tags>
             
+            <tag> Unity </tag>
+            
             <tag> 游戏开发 </tag>
             
             <tag> Unity插件 </tag>
             
-            <tag> Unity </tag>
-            
             <tag> DOTween </tag>
             
             <tag> 动画 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>UIManager与单例模式</title>
+      <link href="/posts/56d8c5dd.html"/>
+      <url>/posts/56d8c5dd.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 知识分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C# </tag>
+            
+            <tag> Unity </tag>
+            
+            <tag> 游戏开发 </tag>
+            
+            <tag> OOP </tag>
+            
+            <tag> 面向对象 </tag>
+            
+            <tag> 设计模式 </tag>
             
         </tags>
       
@@ -245,13 +280,13 @@
       
         <tags>
             
-            <tag> GameJam </tag>
+            <tag> Unity </tag>
             
             <tag> 游戏开发 </tag>
             
             <tag> 开发历程 </tag>
             
-            <tag> Unity </tag>
+            <tag> GameJam </tag>
             
             <tag> TapTap聚光灯GameJam </tag>
             
@@ -262,33 +297,25 @@
     
     
     <entry>
-      <title>UIManager与单例模式</title>
-      <link href="/posts/56d8c5dd.html"/>
-      <url>/posts/56d8c5dd.html</url>
+      <title>程序安装包制作</title>
+      <link href="/posts/87154254.html"/>
+      <url>/posts/87154254.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 知识分享 </category>
+          <category> 推荐 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 游戏开发 </tag>
+            <tag> Inno Setup </tag>
             
-            <tag> C# </tag>
-            
-            <tag> Unity </tag>
-            
-            <tag> 面向对象 </tag>
-            
-            <tag> OOP </tag>
-            
-            <tag> 设计模式 </tag>
+            <tag> 安装程序 </tag>
             
         </tags>
       
@@ -317,13 +344,13 @@
       
         <tags>
             
-            <tag> 游戏开发 </tag>
-            
-            <tag> 开发历程 </tag>
-            
             <tag> C# </tag>
             
             <tag> Unity </tag>
+            
+            <tag> 游戏开发 </tag>
+            
+            <tag> 开发历程 </tag>
             
         </tags>
       
@@ -373,11 +400,11 @@
       
         <tags>
             
-            <tag> 游戏开发 </tag>
-            
             <tag> C# </tag>
             
             <tag> Unity </tag>
+            
+            <tag> 游戏开发 </tag>
             
             <tag> 数据持久化 </tag>
             
@@ -410,11 +437,11 @@
       
         <tags>
             
-            <tag> 游戏开发 </tag>
-            
             <tag> C# </tag>
             
             <tag> Unity </tag>
+            
+            <tag> 游戏开发 </tag>
             
             <tag> Unity开发日记 </tag>
             
@@ -445,11 +472,11 @@
       
         <tags>
             
-            <tag> 游戏开发 </tag>
-            
             <tag> C# </tag>
             
             <tag> Unity </tag>
+            
+            <tag> 游戏开发 </tag>
             
             <tag> Unity开发日记 </tag>
             
@@ -544,11 +571,11 @@
             
             <tag> 游戏开发 </tag>
             
-            <tag> 面向对象 </tag>
-            
             <tag> Easyx图形库 </tag>
             
             <tag> OOP </tag>
+            
+            <tag> 面向对象 </tag>
             
         </tags>
       
@@ -656,17 +683,6 @@
     
     <entry>
       <title></title>
-      <link href="/js/universe.js"/>
-      <url>/js/universe.js</url>
-      
-        <content type="html"><![CDATA[function dark() {window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/title.js"/>
       <url>/js/title.js</url>
       
@@ -677,11 +693,11 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/universe.js"/>
+      <url>/js/universe.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[function dark() {window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
       
     </entry>
     
