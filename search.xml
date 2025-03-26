@@ -344,8 +344,8 @@
     
     <entry>
       <title>Cpp与算法浅记</title>
-      <link href="/posts/bdafbbe3.html"/>
-      <url>/posts/bdafbbe3.html</url>
+      <link href="/posts/c50a51df.html"/>
+      <url>/posts/c50a51df.html</url>
       
         <content type="html"><![CDATA[<div class="note danger info flat"><p><strong>别急。</strong></p></div><p>—end—</p>]]></content>
       
@@ -455,17 +455,6 @@
       <url>/manifest.json</url>
       
         <content type="html"><![CDATA[{"name":"flashfish777_blog","short_name":"flashfish777_blog","theme_color":"#3b70fc","background_color":"#3b70fc","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>时间轴</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -604,6 +593,17 @@
     
     
     <entry>
+      <title>时间轴</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>随笔 · 说说</title>
       <link href="/shuoshuo/index.html"/>
       <url>/shuoshuo/index.html</url>
@@ -648,22 +648,22 @@
     
     
     <entry>
-      <title>图库</title>
-      <link href="/menus/gallery/index.html"/>
-      <url>/menus/gallery/index.html</url>
+      <title>音乐</title>
+      <link href="/menus/music/index.html"/>
+      <url>/menus/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<script>console.error("ReferenceError: value is not defined");</script>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/menus/music/index.html"/>
-      <url>/menus/music/index.html</url>
+      <title>图库</title>
+      <link href="/menus/gallery/index.html"/>
+      <url>/menus/gallery/index.html</url>
       
-        <content type="html"><![CDATA[<script>console.error("ReferenceError: value is not defined");</script>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
