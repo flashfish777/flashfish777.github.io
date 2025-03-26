@@ -32,7 +32,7 @@
 .tip-button.clicked::before {
     height: 0.5rem;
     width: 60%;
-    background: $button-hover-color;
+    background: button-hover-color;
 }
 
 .tip-button.clicked .coin {
