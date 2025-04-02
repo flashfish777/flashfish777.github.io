@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.flashfish777.cn/manifest.json</loc>
-    
-    <lastmod>2025-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.flashfish777.cn/shuoshuo/index.html</loc>
     
     <lastmod>2025-04-02</lastmod>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>http://www.flashfish777.cn/tags/index.html</loc>
+    
+    <lastmod>2025-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.flashfish777.cn/manifest.json</loc>
     
     <lastmod>2025-04-02</lastmod>
     
@@ -505,14 +505,14 @@
   </url>
   
   <url>
-    <loc>http://www.flashfish777.cn/tags/%E9%9D%A2%E7%BB%8F/</loc>
+    <loc>http://www.flashfish777.cn/tags/Rider/</loc>
     <lastmod>2025-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.flashfish777.cn/tags/Rider/</loc>
+    <loc>http://www.flashfish777.cn/tags/%E9%9D%A2%E7%BB%8F/</loc>
     <lastmod>2025-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
